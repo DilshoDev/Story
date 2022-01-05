@@ -1,4 +1,2 @@
-
-
-This is a story about Git repository))(Joke)
+This is chapter 1 to explain branch
 
